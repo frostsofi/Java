@@ -1,0 +1,8 @@
+desc
+1 = readfile C:/Users/frost/IdeaProjects/WorkflowExecutor/src/files/in_file.txt
+2 = writefile C:/Users/frost/IdeaProjects/WorkflowExecutor/src/files/out_file.txt
+3 = sort
+10 = replace Математика Math
+5 = grep Math
+csed
+1 -> 3 -> 10 -> 3 -> 5 -> 2

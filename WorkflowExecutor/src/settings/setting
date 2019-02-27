@@ -1,0 +1,5 @@
+readfile  = outfit.ReaderFlow
+writefile = outfit.WriterFlow
+grep = outfit.Greper
+sort = outfit.Sorter
+replace = outfit.Replacer

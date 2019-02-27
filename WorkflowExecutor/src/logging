@@ -1,0 +1,214 @@
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:49 - Start processing
+INFO  Workflow:27 - Called method analizeFile
+INFO  Factory:22 - Create new blockObject
+INFO  ReaderFlow:17 - ReaderFlow execution
+INFO  Factory:22 - Create new blockObject
+INFO  Sorter:18 - Sorter execution
+INFO  Factory:22 - Create new blockObject
+INFO  Replacer:16 - Replacer execution
+INFO  Factory:22 - Create new blockObject
+INFO  Sorter:18 - Sorter execution
+INFO  Factory:22 - Create new blockObject
+INFO  Greper:18 - Greper execution
+INFO  Factory:22 - Create new blockObject
+INFO  WriterFlow:17 - WriterFlow execution
+INFO  Workflow:59 - All flow processed
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:49 - Start processing
+INFO  Workflow:27 - Called method analizeFile
+INFO  Factory:22 - Create new blockObject
+INFO  ReaderFlow:17 - ReaderFlow execution
+INFO  Factory:22 - Create new blockObject
+INFO  Sorter:18 - Sorter execution
+INFO  Factory:22 - Create new blockObject
+INFO  Replacer:16 - Replacer execution
+INFO  Factory:22 - Create new blockObject
+INFO  Sorter:18 - Sorter execution
+INFO  Factory:22 - Create new blockObject
+INFO  Greper:18 - Greper execution
+INFO  Factory:22 - Create new blockObject
+INFO  WriterFlow:17 - WriterFlow execution
+INFO  Workflow:59 - All flow processed
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:49 - Start processing
+INFO  Workflow:27 - Called method analizeFile
+TRACE Workflow:? - File with operations closed successfully
+INFO  Factory:22 - Create new blockObject
+INFO  ReaderFlow:17 - ReaderFlow execution
+INFO  Factory:22 - Create new blockObject
+INFO  Sorter:18 - Sorter execution
+INFO  Factory:22 - Create new blockObject
+INFO  Replacer:16 - Replacer execution
+INFO  Factory:22 - Create new blockObject
+INFO  Sorter:18 - Sorter execution
+INFO  Factory:22 - Create new blockObject
+INFO  Greper:18 - Greper execution
+INFO  Factory:22 - Create new blockObject
+INFO  WriterFlow:17 - WriterFlow execution
+TRACE WriterFlow:? - out file closed successfully
+INFO  Workflow:59 - All flow processed
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:48 - Start processing
+TRACE Workflow:? - File was processed and closed successfully
+INFO  Factory:23 - Create new blockObject
+INFO  ReaderFlow:17 - ReaderFlow execution
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:48 - Start processing
+TRACE Workflow:? - File was processed and closed successfully
+INFO  Factory:23 - Create new blockObject
+INFO  ReaderFlow:17 - ReaderFlow execution
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:48 - Start processing
+TRACE Workflow:? - File was processed and closed successfully
+INFO  Factory:23 - Create new blockObject
+INFO  ReaderFlow:17 - ReaderFlow execution
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:48 - Start processing
+TRACE Workflow:? - File was processed and closed successfully
+INFO  Factory:23 - Create new blockObject
+INFO  ReaderFlow:17 - ReaderFlow execution
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:48 - Start processing
+TRACE Workflow:? - File was processed and closed successfully
+INFO  Factory:23 - Create new blockObject
+INFO  ReaderFlow:17 - ReaderFlow execution
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:48 - Start processing
+TRACE Workflow:? - File was processed and closed successfully
+INFO  Factory:23 - Create new blockObject
+INFO  ReaderFlow:17 - ReaderFlow execution
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:48 - Start processing
+TRACE Workflow:? - File was processed and closed successfully
+INFO  Factory:23 - Create new blockObject
+INFO  ReaderFlow:17 - ReaderFlow execution
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:48 - Start processing
+TRACE Workflow:? - File was processed and closed successfully
+INFO  Factory:23 - Create new blockObject
+INFO  ReaderFlow:17 - ReaderFlow execution
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:47 - Start processing
+TRACE Workflow:? - File was processed and closed successfully
+INFO  Factory:22 - Create new blockObject
+INFO  ReaderFlow:16 - ReaderFlow execution
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:47 - Start processing
+TRACE Workflow:? - File was processed and closed successfully
+INFO  Factory:22 - Create new blockObject
+INFO  ReaderFlow:16 - ReaderFlow execution
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:47 - Start processing
+TRACE Workflow:? - File was processed and closed successfully
+INFO  Factory:22 - Create new blockObject
+INFO  ReaderFlow:16 - ReaderFlow execution
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:47 - Start processing
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:47 - Start processing
+TRACE Workflow:? - File was processed and closed successfully
+INFO  Factory:22 - Create new blockObject
+INFO  ReaderFlow:16 - ReaderFlow execution
+INFO  Factory:22 - Create new blockObject
+INFO  Sorter:17 - Sorter execution
+INFO  Factory:22 - Create new blockObject
+INFO  Replacer:15 - Replacer execution
+INFO  Factory:22 - Create new blockObject
+INFO  Sorter:17 - Sorter execution
+INFO  Factory:22 - Create new blockObject
+INFO  Greper:17 - Greper execution
+INFO  Factory:22 - Create new blockObject
+INFO  WriterFlow:16 - WriterFlow execution
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+TRACE Factory:? - Factory successfully included new Blockclass
+INFO  FactoryCustomizer:25 - Factory was customized succesfully
+INFO  Workflow:47 - Start processing
+TRACE Workflow:? - File was processed and closed successfully
+INFO  Factory:22 - Create new blockObject
+INFO  ReaderFlow:16 - ReaderFlow execution
+INFO  Factory:22 - Create new blockObject
+INFO  Sorter:17 - Sorter execution
+INFO  Factory:22 - Create new blockObject
+INFO  Replacer:15 - Replacer execution
+INFO  Factory:22 - Create new blockObject
+INFO  Sorter:17 - Sorter execution
+INFO  Factory:22 - Create new blockObject
+INFO  Greper:17 - Greper execution
+INFO  Factory:22 - Create new blockObject
+INFO  WriterFlow:16 - WriterFlow execution
+TRACE WriterFlow:? - out file closed successfully
+INFO  Workflow:61 - All flow processed
