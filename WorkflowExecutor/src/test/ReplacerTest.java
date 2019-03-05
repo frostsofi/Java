@@ -14,7 +14,7 @@ public class ReplacerTest
     private Replacer replace = new Replacer();
 
     @Before
-    public void setUp() throws Exception {
+    public void setUp(){
         args = new ArrayList<>();
         args.add(0,"");
     }

@@ -21,12 +21,16 @@ public class Workflow
 
     private void analiseFile(String path) throws IOException {
 
-        FileReader reader = new FileReader(path);
+        FileReader reader = new FileReader(Workflow.class.getResourceAsStream(path));
         ArrayList<String> curWords;
         int number;
 
         if (!(reader.read().get(0).equals("desc")))
-               throw new IOException();
+        {
+            logger.error("error in function alaliseFile, wrong parametr at first line");
+            throw new IOException("wrong parametr at firstline");
+        }
+
         while (!(curWords = reader.read()).isEmpty()) {
             if (!curWords.get(0).equals("csed"))
             {
@@ -60,6 +64,4 @@ public class Workflow
 
          logger.info("All flow processed");
     }
-
-
 }

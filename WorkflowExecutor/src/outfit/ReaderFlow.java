@@ -1,8 +1,7 @@
 package outfit;
-
+import flow.Workflow;
 import org.apache.log4j.Logger;
 
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -15,7 +14,6 @@ public class ReaderFlow implements Block
     {
         logger.info("ReaderFlow execution");
 
-        FileInputStream fin = new FileInputStream(args.get(1));
-        return new String(fin.readAllBytes());
+        return new String(Workflow.class.getResourceAsStream(args.get(1)).readAllBytes());
     }
 }

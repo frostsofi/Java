@@ -7,9 +7,9 @@ class FileReader implements Reader {
 
     private java.io.InputStreamReader reader;
 
-    FileReader(String path) throws FileNotFoundException
+    FileReader(InputStream path)
     {
-        reader = new InputStreamReader(new FileInputStream(path));
+        reader = new InputStreamReader(path);
     }
 
     public ArrayList<String> read() throws IOException {
@@ -20,8 +20,7 @@ class FileReader implements Reader {
 
         while (symbol != '\n' && symbol != -1) {
 
-            while (Character.isLetterOrDigit(symbol = reader.read()) || symbol == '_' || symbol == '.'
-            || symbol == '/' || symbol == ':')
+            while (Character.isLetterOrDigit(symbol = reader.read()) || symbol == '_' || symbol == '.')
                 builder.append((char)symbol);
 
             if (!builder.toString().equals(""))

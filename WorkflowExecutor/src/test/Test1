@@ -1,8 +1,0 @@
-desc
-1 = readfile C:/Users/frost/IdeaProjects/WorkflowExecutor/src/files/in1.txt
-2 =  replace little big
-0 =  replace big little
-7 = grep star
-8 = writefile C:/Users/frost/IdeaProjects/WorkflowExecutor/src/files/out1.txt
-csed
-1 -> 2 -> 0 -> 2 -> 7 -> 8

@@ -10,12 +10,8 @@ public class FactoryTest {
 
     @Test
     public void getBlockTest() throws Exception {
-        Factory production = new Factory();
-        production.add("grep", "outfit.Greper");
-        production.add("sort", "outfit.Sorter");
-        production.add("replace", "outfit.Replacer");
-        production.add("readfile", "outfit.ReaderFlow");
-        production.add("writefile", "outfit.WriterFlow");
+
+       Factory production =  Factory.getInstance("setting");
 
         Object actual = production.getBlock("grep");
         Assert.assertNotNull(actual);

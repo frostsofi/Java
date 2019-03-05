@@ -14,7 +14,7 @@ public class SorterTest
     private Sorter sort = new Sorter();
 
     @Before
-    public void setUp() throws Exception {
+    public void setUp() {
         args = new ArrayList<>();
         args.add(0,"");
     }
