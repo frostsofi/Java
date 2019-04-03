@@ -1,0 +1,6 @@
+A pair game.
+Rules of the game:
+With each new move a player can open no more than two cards.
+If they match, then the cards remain open. If not, they close.
+The game ends when all cards are open.
+In the table of records will be entered the number of moves in the game.
